@@ -58,4 +58,4 @@ It combines powerful tools like **Snap Calculator (OCR)**, financial calculators
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sara12472/smart_calc
+   git clone https://github.com/sara12472/smart_calc/tree/master/lib
