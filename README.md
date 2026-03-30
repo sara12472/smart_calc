@@ -1,32 +1,61 @@
-# smart_calc
-Smart Calculator App is an all-in-one Flutter app with Snap Calc (upload an image to get results), basic calculator, BMI, loan &amp; EMI calculator, unit &amp; currency converters, and date calculator. Focused on clean UI and API-powered real-time results.
+# 🧮 Smart Calculator App
 
-🌟 Features
-Basic Calculator: Perform simple arithmetic operations (+, -, ×, ÷).
-Loan Calculator: Calculate EMI, interest, and total payments for loans.
-Snap Calculator (OCR): Take a picture of a mathematical expression, and the app solves it automatically.
-Date Converter: Convert dates between different formats using APIs.
-Unit Converter: Convert units (length, weight, temperature, etc.) using APIs.
-Currency Converter: Convert currencies using real-time API rates.
-User-Friendly UI: Simple, intuitive, and responsive design.
+Smart Calculator is an all-in-one **Flutter-based calculator app** designed to simplify everyday calculations.  
+It combines powerful tools like **Snap Calculator (OCR)**, financial calculators, and converters with a clean and modern UI.
 
-🚀 Installation
+---
 
-Clone the repository:
-git clone https://github.com/sara12472/smart_calc
-Open the project in Android Studio or VS Code.
-Run flutter pub get to install dependencies.
-Run the app on an emulator or device using:
-flutter run
+## ✨ Features
 
-🛠 Technology Stack
-Language: Dart
-Framework: Flutter
-APIs Used: Date conversion, Unit conversion, Currency conversion
-Libraries: OCR library for snap calculation (ML Kit)
+- ➕ **Basic Calculator**  
+  Perform simple arithmetic operations (+, −, ×, ÷)
 
-💡 Future Improvements
-Add history feature to save previous calculations.
-Add dark mode support.
-Add more currencies and unit types.
-Integrate offline support for converters.
+- 💰 **Loan & EMI Calculator**  
+  Calculate EMI, interest, and total loan payments easily
+
+- 📸 **Snap Calculator (OCR)**  
+  Take a picture of a math expression and get instant results
+
+- 📅 **Date Calculator**  
+  Convert and calculate dates using APIs
+
+- 📏 **Unit Converter**  
+  Convert units like length, weight, temperature, etc.
+
+- 💱 **Currency Converter**  
+  Real-time currency conversion using APIs
+
+- 🎨 **User-Friendly UI**  
+  Clean, simple, and responsive design
+
+---
+
+## 🛠 Tech Stack
+
+- **Language:** Dart  
+- **Framework:** Flutter  
+- **Architecture:** Clean UI with modular structure  
+- **APIs Used:**  
+  - Currency Conversion API  
+  - Unit Conversion API  
+  - Date Conversion API  
+- **Libraries:**  
+  - OCR (ML Kit / similar) for Snap Calculator  
+
+---
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="image1.jpg" width="220"/>
+  <img src="image2.jpg" width="220"/>
+  <img src="smart calc gig.png" width="220"/>
+</p>
+
+---
+
+## 🚀 Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/sara12472/smart_calc
